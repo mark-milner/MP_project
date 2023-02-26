@@ -1,2 +1,4 @@
 print('Hello world')
-print('test')
+
+print()
+print('huhfue')
